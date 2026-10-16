@@ -17,3 +17,4 @@ VALUES
     ('Soupe chinoise', 5000),
     ('Mofo gasy (les 4)', 1000),
     ('Ranon''ampango', 500);
+
